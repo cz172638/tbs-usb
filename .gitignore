@@ -5,3 +5,5 @@
 Module.symvers
 modules.order
 .tmp_versions
+*.mod
+*.a
